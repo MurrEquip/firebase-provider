@@ -1,0 +1,6 @@
+/vendor
+/.idea
+/_
+.env
+.phpunit.result.cache
+_ide_helper.php
