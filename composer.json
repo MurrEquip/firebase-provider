@@ -1,5 +1,5 @@
 {
-    "name": "shelton/firebase-provider",
+    "name": "murrequip/firebase-provider",
     "description": "Firebase Service Provider for Lumen/Laravel",
     "license": "MIT",
     "keywords": ["lumen", "firebase"],
@@ -14,13 +14,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Shelton\\Firebase\\": "src/"
+            "MurrEquip\\Firebase\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Shelton\\Firebase\\Providers\\ServiceProvider"
+                "MurrEquip\\Firebase\\Providers\\ServiceProvider"
             ]
         }
     }
