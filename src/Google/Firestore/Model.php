@@ -1,6 +1,6 @@
 <?php
 
-namespace Shelton\Firebase\Google\Firestore;
+namespace MurrEquip\Firebase\Google\Firestore;
 
 use Google\Cloud\Core\GeoPoint;
 use Google\Cloud\Core\Timestamp;

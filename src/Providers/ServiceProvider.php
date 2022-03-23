@@ -1,6 +1,6 @@
 <?php
 
-namespace Shelton\Firebase\Providers;
+namespace MurrEquip\Firebase\Providers;
 
 use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
